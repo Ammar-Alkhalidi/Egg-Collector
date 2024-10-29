@@ -1,4 +1,5 @@
-Egg Collector Multiplayer Game
+#Egg Collector 
+Multiplayer Game
 Egg Collector is a simple, multiplayer browser game where players navigate a 20x20 grid to collect hidden eggs. Up to 4 players can play, each taking turns to move around the grid using W, A, S, and D keys. The player who collects the most eggs wins the game!
 
 
