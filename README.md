@@ -16,4 +16,4 @@ A modern web browser (e.g., Chrome, Firefox, Safari)
 #License
 This project is open-source under the MIT License.
 
-Enjoy playing Egg Collector with friends and family! 🎉
+Enjoy playing Egg Collector with friends and family! 🎉# Egg-Collector
